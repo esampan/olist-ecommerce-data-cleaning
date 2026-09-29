@@ -27,16 +27,16 @@ The project includes data cleaning and validation for the following Olist datase
 
 Each dataset was examined and validated through a series of data quality checks, including:
 
-Checking dataset shape and size
-Inspecting column names and data types
-Checking for missing values
-Checking for duplicate rows
-Checking for duplicate IDs
-Cleaning and standardizing relevant fields
-Converting date columns to appropriate datetime formats
-Checking categorical and unique values
-Validating relationships and data consistency where applicable
-Performing final validation after cleaning
+* Checking dataset shape and size
+* Inspecting column names and data types
+* Checking for missing values
+* Checking for duplicate rows
+* Checking for duplicate IDs
+* Cleaning and standardizing relevant fields
+* Converting date columns to appropriate datetime formats
+* Checking categorical and unique values
+* Validating relationships and data consistency where applicable
+* Performing final validation after cleaning
 
 ## Notebook
 
@@ -52,13 +52,13 @@ The project uses the Olist Brazilian e-commerce dataset, a collection of dataset
 
 The data includes information about:
 
-Customers — customer identifiers, locations, and geographic information
-Sellers — seller identifiers and locations
-Products — product information and categories
-Orders — order status and purchase, delivery, and estimated delivery dates
-Order Items — products included in each order, sellers, prices, and shipping information
-Order Payments — payment methods, installments, and payment values
-Product Categories — Portuguese product category names and their English translations
+* Customers — customer identifiers, locations, and geographic information
+* Sellers — seller identifiers and locations
+* Products — product information and categories
+* Orders — order status and purchase, delivery, and estimated delivery dates
+* Order Items — products included in each order, sellers, prices, and shipping information
+* Order Payments — payment methods, installments, and payment values
+* Product Categories — Portuguese product category names and their English translations
 
 The datasets contain tens of thousands to more than 100,000 records, providing a realistic dataset for practicing data cleaning and validation on relatively large e-commerce data.
 
