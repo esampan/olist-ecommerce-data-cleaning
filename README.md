@@ -43,7 +43,7 @@ The datasets were examined and validated through several steps, including:
 
 The complete data cleaning process and validation results are available in the Jupyter Notebook:
 
-`olist(ecommerce)_data_cleaning.ipynb`
+olist(ecommerce)_data_cleaning.ipynb
 
 The notebook includes the Python code, intermediate outputs, tables, and validation results from the cleaning process.
 
